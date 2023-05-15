@@ -13,11 +13,12 @@ const FeaturedProducts = ({ type }) => {
       <div className="top">
         <h1>{type} products</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
-          suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-          lacus vel facilisis labore et dolore magna aliqua. Quis ipsum
-          suspendisse ultrices gravida. Risus commodo viverra maecenas.
+          Whether you need a cozy sweater, a chic dress, or a stylish jacket,
+          you will find it here. Our clothing featured products are carefully
+          selected to suit your taste and budget. Plus, they are made from
+          high-quality materials and designed to flatter your figure. Don’t miss
+          this opportunity to update your wardrobe with our clothing featured
+          products. Shop now and enjoy free shipping on orders over $50.
         </p>
       </div>
       <div className="bottom">
